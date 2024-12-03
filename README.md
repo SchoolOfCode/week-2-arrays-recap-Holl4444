@@ -1,6 +1,5 @@
 # Arrays
 
-Create an HTML file named index.html and a JS file named main.js in this folder. Link them with a script tag. In main.js, work through the following tasks.
 
 ## Task 1 - Declaring an Array
 
